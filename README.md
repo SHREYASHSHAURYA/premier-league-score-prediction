@@ -52,17 +52,22 @@ Install dependencies using `pip install -r requirements.txt`.
 
 Run the predictor using `python main.py`.
 
-Example input:  
-Home team: Fulham  
-Away team: Everton  
+### Example Input
 
-Example output:  
-predicted_score: 2 - 1  
-home_xG: 1.64  
-away_xG: 1.17  
-home_win_prob: 0.481  
-draw_prob: 0.245  
-away_win_prob: 0.273  
+```text
+Home team: Fulham
+Away team: Everton
+ 
+ 
+### Example Output
+
+```text
+predicted_score: 2 - 1
+home_xG: 1.64
+away_xG: 1.17
+home_win_prob: 0.481
+draw_prob: 0.245
+away_win_prob: 0.273 
 
 ## Interpretation
 
